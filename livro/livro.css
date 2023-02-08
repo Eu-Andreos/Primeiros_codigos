@@ -1,0 +1,84 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+header {
+    margin: 15px;
+}
+
+nav ul {
+    margin: 15px;
+    padding: 0;
+}
+
+nav ul li{
+    list-style-type: none;
+    float: left;
+    border:1px solid black;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+nav ul li:hover {
+    color: coral;
+    cursor: pointer;
+}
+
+.quebra {
+    clear: both;
+}
+
+#capa {
+    margin: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+}
+
+#left {
+    float: left;
+}
+
+#sec {
+    font-size: 20px;
+    line-height: 33px;
+}
+
+table {
+    width: 100%;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#compra {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#preço, #comprar {
+    margin: 15px;
+    padding: 4px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+#comprar:hover {
+    border: 1px solid black;
+    background-color: coral;
+    cursor: pointer;
+}
+
+#preço {
+    color: red;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+}
