@@ -1,2 +1,2 @@
 # Primeiros_codigos
-Primeiros códigos que eu criei
+Esses são os primeiros códigos que eu criei, isso foi no começo de 2022.
